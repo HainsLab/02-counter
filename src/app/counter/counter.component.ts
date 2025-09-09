@@ -25,4 +25,4 @@ export class CounterComponent {
       return 'Negative';
     }
   }
-}
+} 
